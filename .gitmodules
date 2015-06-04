@@ -1,0 +1,3 @@
+[submodule "someName"]
+	path = someName
+	url = git+ssh://git@github.com/jashkenas/backbone.git
